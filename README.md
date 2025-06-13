@@ -1,5 +1,6 @@
 # better-Duck-Spicetify
 ## No Pixelation and a Bigger Duck
+Copy and pasete this code into Spicetify
 
 ```
 .player-controls .playback-progressbar::before {
